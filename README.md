@@ -5,6 +5,5 @@ Nearly all systems I've been on with command prompt restrictions only prevent th
 To use the script, open it up and find the process you want to kill. Have fun
 
 You can use both:
-Process name: discord.exe, firefox.exe etc
-PID: 10420, 2202 etc
-
+- Process name: discord.exe, firefox.exe etc
+- PID: 10420, 2202 etc
